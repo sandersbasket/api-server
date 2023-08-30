@@ -27,3 +27,5 @@ npm install
 ```bash
 npm start
 ```
+
+**API Documentation:** https://github.com/sandersbasket/api-server/wiki/API-server-Documentation
