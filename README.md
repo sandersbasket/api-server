@@ -13,14 +13,17 @@
 
 ```bash
 git clone https://github.com/sandersbasket/api-server.git
-cd folder_name```
+cd folder_name
+```
 
 3. Установите зависимости: 
 
 ```bash
-npm install```
+npm install
+```
 
 4. Запуск сервера:
 
 ```bash
-npm start```
+npm start
+```
